@@ -8,7 +8,7 @@ function randomNumGenerator() {
 
 // Assuming you want to generate a random number when the button is clicked
 btn.addEventListener("click", randomNumGenerator);
-
+// Assuming you want to change the bacground color when the button is clicked
 function changeColor(){
     var x = Math.floor(Math.random() * 256);
     var y = Math.floor(Math.random() * 256);
