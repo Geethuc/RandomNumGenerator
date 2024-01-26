@@ -1,0 +1,27 @@
+body{
+    display: flex;
+    justify-content: center;
+   margin-top: 20%;
+}
+#box{
+    width: 150px;
+    height: 150px;
+    font-size: 50px;
+    background-color: black;
+    color: white;
+}
+#btn{
+    width: 150px;
+    height: 50px;
+    background-color:#bd8b0d;
+    border: none;
+    color: black;
+    font-weight: 700;
+    
+}
+#num{
+    
+    display: flex;
+    justify-content: center;
+    margin-top: 20%;
+}
